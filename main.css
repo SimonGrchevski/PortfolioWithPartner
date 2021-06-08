@@ -330,3 +330,75 @@ p {
   display: flex;
   flex-grow: 1;
 }
+
+.form-bg {
+  background: url(./images/contact-form-\ background-.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0 10px 0;
+  height: auto;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+.form-content {
+  margin: 0 10%;
+  text-align: center;
+}
+
+.form-content h2 {
+  margin-bottom: 10px;
+}
+
+.form-content header {
+  margin-bottom: 50px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.form-content h2,
+.form-content p {
+  color: #ffffff;
+}
+
+input {
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  height: 50px;
+  margin-bottom: 15px;
+}
+
+.submit {
+  letter-spacing: 0.03em;
+  color: #6070ff;
+  width: 150px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 8%;
+  border: 1px solid gray;
+  font-size: 17px;
+}
+
+textarea,
+.submit,
+input {
+  background-color: #fff;
+}
+
+.submit:hover {
+  color: #1030be;
+}
+
+textarea,
+input {
+  color: black;
+}
+
+.shape {
+  background-color: black;
+  width: 40%;
