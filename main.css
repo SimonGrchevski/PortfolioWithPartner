@@ -414,6 +414,6 @@ input {
   background-color: rgba(0, 0, 0, 0.521);
 }
 
-.snapshot:hover { 
-  transform: scale(1.03); 
+.snapshot:hover {
+  transform: scale(1.03);
 }
