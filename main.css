@@ -190,7 +190,7 @@ p {
   box-sizing: border-box;
 }
 
-a{
+a {
   text-decoration: inherit;
   margin-right: 10px;
 }
@@ -204,7 +204,6 @@ a{
   height: 40px;
   margin-right: 24px;
   word-spacing: 10px;
-  
 }
 
 .headline {
