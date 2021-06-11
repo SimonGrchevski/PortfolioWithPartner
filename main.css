@@ -190,14 +190,21 @@ p {
   box-sizing: border-box;
 }
 
+a{
+  text-decoration: inherit;
+  margin-right: 10px;
+}
+
 .tertiary-button {
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 8px;
-  width: 40px;
+  width: 200px;
   height: 40px;
   margin-right: 24px;
+  word-spacing: 10px;
+  
 }
 
 .headline {
