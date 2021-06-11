@@ -4,7 +4,7 @@
 
 > We build our portfolio mobile website
 
-![Screen Shot](./scrnsht.PNG)
+![Screen Shot](./desktop-version.PNG)
 
 This is the first milestone in the process of creating our portfolio website.
 
