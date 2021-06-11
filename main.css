@@ -190,8 +190,7 @@ p {
   box-sizing: border-box;
 }
 
-a {
-  text-decoration: inherit;
+li {
   margin-right: 10px;
 }
 
