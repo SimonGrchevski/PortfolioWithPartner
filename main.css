@@ -415,3 +415,12 @@ input {
 .snapshot:hover { 
   transform: scale(1.03); 
 } 
+
+.logo {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  margin-left: 24px;
+  transition: transform 500ms ease 2s;
+  transform: rotate(360deg);
+}
